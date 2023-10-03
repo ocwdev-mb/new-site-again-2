@@ -1,0 +1,32 @@
+{
+  "term": "Summer",
+  "year": "2027",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-site-again-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-site-again-2"
+  },
+  "course_title": "new-site-again-2",
+  "hide_download": false,
+  "course_description": "new-site-again-2",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "222",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-site-again-2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "3c4a3d40-3787-43ef-b8f8-176e48c6d2e3",
+  "site_short_id": "new-site-again-2"
+}
